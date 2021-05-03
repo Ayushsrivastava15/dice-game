@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Vollkorn', serif;}
+
+.container{
+ width:70%;
+ margin: auto;   
+ text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: #0a3d62;
+}
+
+h1{
+    margin:30px;
+    text-shadow: 5px 0 white;
+    font-size:6rem;
+    color: #f6b93b;
+}
+
+p{
+    font-size: 2rem;
+    color:#00b894;
+    text-shadow: 1px 1px white;
+}
+
+button{
+    padding: 10px;
+    background-color: #00b894;
+    color: white;
+    border-radius: 20px;
+
+}
+
+img{
+    width: 75%;
+}
